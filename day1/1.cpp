@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 
-using namwsapce std;
+using namespace std;
 
 int main() {
     int n;
