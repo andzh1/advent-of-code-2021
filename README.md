@@ -8,4 +8,5 @@ Solutions of [Advent of Code - 2021](https://adventofcode.com/2021) problems
 - day 5 :star: :star: (Rank 1928 & 1840)
 - day 6 :star: :star: (Rank - & -) (started at 5 a.m. UTC)
 - day 7 :star: :star: (Rank 982 & 427)
+- day 8 :star: :star: (Rank 1460 & -) (solved 2nd half only at 7 a.m.)
 
